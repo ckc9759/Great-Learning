@@ -22,3 +22,22 @@
   * Ransomware
   * Spyware
 
+---
+
+* Goals of ethical hacking : 
+  * protect the privacy of organization.
+  * Transparently report all the identified weakness / bugs / vulnerability to the organization.
+  * Inform the vendors about the security measures and patches.
+
+* `Skills required` : Operating system, Networking, Programming languages (Scripting).
+
+* Tools used by ethical hackers:
+  *  Burpsuite
+  *  Nmap port scanning tool
+  *  Nesus vulnerability scanner tool
+  *  SQLmap exploit database vuln
+  *  netsparker web app security scanner
+  *  Hashcat advanced password recovery
+  *  Metasploit penetration testing software
+  *  acunetix
+
