@@ -11,3 +11,14 @@
 * `Grey hat hacker` - They are a combination of both black and white. Bug bounty !! example.
 
 * `Computer security threats` : 
+  * Computer Virus
+  * Computer Worm
+  * Scareware
+  * Keylogger
+  * Adware
+  * Malware
+  * Backdoor
+  * Trojan
+  * Ransomware
+  * Spyware
+
