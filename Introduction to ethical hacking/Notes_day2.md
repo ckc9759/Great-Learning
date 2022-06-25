@@ -33,4 +33,10 @@
 * `nmap` - Stealth scan - nmap -SS (used to avoid tracks)
 * In a tcp connection, the client and server interact with each other and if a hacker tries to gain info, this connection will be recorded in the TCP connection or firewall. Using stealth scan, this connection is not established and hence no track.
 * nmap -sS -p- IP address (192.168.56.103) for this demo. (-p- is used to scan for every address and ports).
+* `FTP port` - File transfer
+* `SSH` - To login
+* `Telnet` - To login
+* `Smtp` - Email transfer
+* nmap -sS -sV -O Ip ( checks for versions and operating system )
+* It is being used to check for vulnerabilities.
 * 
