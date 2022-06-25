@@ -16,3 +16,4 @@
   * Scanning 
   * Gaining the access: how to enter into the bank.
   * Mainting the access: Have control over the bank during the whole process. 
+  * 
