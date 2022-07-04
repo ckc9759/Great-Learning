@@ -41,6 +41,10 @@ Let's suppose we have a login box in some xyz.com website !!. He can use HTML or
 `<script>"You are hacked"</script>` or  
 `<iframe src="some website"></iframe>`
 
+### Directory Transversal attack -
+This is related to operating system and is more complex. It is very common attack.   
+Example- a site exposed to operations or related to DNS system.   
 
+---
 
-
+Thank you
