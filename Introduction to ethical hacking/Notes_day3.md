@@ -27,7 +27,7 @@
 
 
 
-Eg of Client side vuln - CSS, XSS.  
+Eg of Client side vuln - CSS, XSS.  (Cross site scripting)
 ` A CSS Injection vulnerability involves the ability to inject arbitrary CSS code in the context of a trusted web site which is rendered inside a victim's browser.`  
 Server side vuln - SQL injection, PHP injection.
 
