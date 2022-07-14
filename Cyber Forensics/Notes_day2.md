@@ -37,6 +37,21 @@ It is also called `computer forensics` or `digital forensics`.
 * Network forensics
 * Malware forensics  ( Gets installed in the computer when clicked on a link etc )
 
+Diffn btwen forensics and security : 
 
+In security, we generally try to protect the data from unauthorized access whereas in forensics, we try to recover the lost data.
+Basically, we apply security first and if it is breached, we use forensics to analyze and recover our data.
+
+---
+
+Some tools :
+
+The sleuth kit
+FTK Imager
+Xplico
+OSForensics
+Bulk Extractor
+
+---
 
 
